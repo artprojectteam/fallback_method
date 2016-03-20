@@ -1,0 +1,17 @@
+{
+  "name": "fallback_method",
+  "version": "1.0.0",
+  "main": "src/fallback_method.min.js",
+  "scripts": [
+    "src/fallback_method.js",
+    "src/fallback_method.min.js"
+  ],
+  "ignore": [
+    "**/*",
+    "*.coffee",
+    "/gulp",
+    "/_ws",
+    "package.json"
+  ],
+  "dependencies": {}
+}
