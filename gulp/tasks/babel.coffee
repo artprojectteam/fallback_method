@@ -24,7 +24,7 @@ g.task task.default, ()->
   return g.src(config.file.js)
   .pipe $.plumber()
   .pipe $.babel(
-    presets: ['es2015']
+    presets: ['es2015-without-strict']
   )
   .pipe g.dest "#{config.dest}/"
   .pipe $.uglify(
