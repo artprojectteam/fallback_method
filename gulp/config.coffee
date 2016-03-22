@@ -3,7 +3,7 @@
 ###
 
 ws = '_ws'
-dest = 'src'
+dest = '.'
 demo = 'demo'
 
 file =
