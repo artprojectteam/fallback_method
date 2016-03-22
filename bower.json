@@ -1,6 +1,6 @@
 {
   "name": "fallback_method",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "fallback_method.min.js",
   "scripts": [
     "fallback_method.js",
