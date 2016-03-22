@@ -13,7 +13,22 @@
     "gulp",
     "_ws",
     "package.json",
-    "CHANGELOG.md"
+    "CHANGELOG.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "homepage": "https://github.com/artprojectteam/fallback_method",
+  "authors": [
+    "近藤 信幸 <rock-therapy@art-p.com>"
+  ],
+  "description": "Javascript old browser method to fallback",
+  "moduleType": [],
+  "keywords": [
+    "fallback",
+    "method"
+  ],
+  "license": "MIT"
 }
